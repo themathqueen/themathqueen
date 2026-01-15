@@ -21,6 +21,7 @@
         - [inner product of tensor products](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/TensorProduct.html)
         - [partial order on matrices](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/Matrix/Order.html)
         - [characterization of continuous (star-)algebra equivalences between continuous endormorphisms](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/Normed/Operator/ContinuousAlgEquiv.html)
+        - [square roots on RCLike](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/RCLike/Sqrt.html)
       </details>
     - <details>
       <summary>Linear Algebra</summary>
