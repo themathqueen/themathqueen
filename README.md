@@ -16,9 +16,10 @@
         </details>
     - <details>
       <summary>Analysis</summary>
-      
-        - [inner product of opposite spaces](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/MulOpposite.html)
-        - [inner product of tensor products](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/TensorProduct.html)
+   
+        - [adjoint (co)algebra space](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/Coalgebra.html)
+        - [inner product on opposite spaces](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/MulOpposite.html)
+        - [inner product on tensor products](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/InnerProductSpace/TensorProduct.html)
         - [partial order on matrices](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/Matrix/Order.html)
         - [characterization of continuous (star-)algebra equivalences between continuous endormorphisms](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/Normed/Operator/ContinuousAlgEquiv.html)
         - [square roots on RCLike](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/RCLike/Sqrt.html)
@@ -31,7 +32,7 @@
     - <details>
       <summary>Ring Theory</summary>
       
-        - [coalgebra of opposite space](https://leanprover-community.github.io/mathlib4_docs/Mathlib/RingTheory/Coalgebra/MulOpposite.html)
+        - [coalgebra on opposite spaces](https://leanprover-community.github.io/mathlib4_docs/Mathlib/RingTheory/Coalgebra/MulOpposite.html)
       </details>
     </details>
 </details>
