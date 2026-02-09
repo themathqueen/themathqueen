@@ -13,7 +13,7 @@
         - [star projections](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Algebra/Star/StarProjection.html)
         - [star structure on tensor products](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Algebra/Star/TensorProduct.html)
         - [star-algebra automorphism given by unitary conjugation](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Algebra/Star/UnitaryStarAlgAut.html)
-        </details>
+      </details>
     - <details>
       <summary>Analysis</summary>
    
@@ -35,4 +35,7 @@
         - [coalgebra on opposite spaces](https://leanprover-community.github.io/mathlib4_docs/Mathlib/RingTheory/Coalgebra/MulOpposite.html)
       </details>
     </details>
+  
+    - [all PRs](https://github.com/leanprover-community/mathlib4/pulls?q=is%3Apr+author%3Athemathqueen+%22%5BMerged+by+Bors%5D%22+is%3Aclosed)
+  </details>
 </details>
