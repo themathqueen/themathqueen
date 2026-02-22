@@ -25,6 +25,12 @@
         - [square roots on RCLike](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Analysis/RCLike/Sqrt.html)
       </details>
     - <details>
+      <summary>Data</summary>
+   
+        - [integer Fibonacci](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Int/Fib/Basic.html)
+        - [Cassini and Catalan identities for Fibonacci numbers](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Int/Fib/Lemmas.html)
+      </details>
+    - <details>
       <summary>Linear Algebra</summary>
       
         - [characterization of algebra equivalences between endomorphisms](https://leanprover-community.github.io/mathlib4_docs/Mathlib/LinearAlgebra/GeneralLinearGroup/AlgEquiv.html)
